@@ -1,0 +1,14 @@
+/**
+ * Convert px to em
+ *
+ * @param $px - the value in pixel to convert
+ * @param $context - the font size of the element you are converting
+ *
+ * e.g. margin: px-em(20px, 14px);
+ * 
+ */
+
+@function px-em ($px, $context: $base-font-size){
+  $em: ($px/$context) * 1em;
+  @return $em;
+}

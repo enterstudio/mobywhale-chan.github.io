@@ -1,0 +1,95 @@
+/* --------------------------------------------------------------------
+   General
+   -------------------------------------------------------------------- */
+html {
+  height: 100%;
+  padding-top: 15px; 
+  @include background-diagonal-stripes(40deg, #72d4d8, rgba(255,255,255, .5), 40px);
+}
+
+body {
+  min-height: 100%;
+  background: #e9f2f2;
+}
+
+.container {
+  width: 90%;
+  min-width: 210px;
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+.content {
+  padding-bottom: 1em;
+  background: #fff;
+
+  .container {
+    padding: 1em 0 0;
+  }
+}
+
+/* --------------------------------------------------------------------
+   Header
+   -------------------------------------------------------------------- */
+[role="banner"] {
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.logo {
+  margin: 0 0 1.35em;
+
+  .logo-inner {
+    position: relative;
+    display: inline-block;
+    padding-top: 50px;
+  }
+
+  img {
+    width: 100px;
+    border-radius: 100%;
+    border: 5px solid #000;
+  }
+
+  h1 {
+    font-size: 2em;
+    line-height: 1;
+    position: absolute;
+    left: 75px;
+    top: -15px;
+    display: inline-block;  
+    padding: 20px px-em(10px, 36px) 25px px-em(17px, 36px);
+    text-align: center;
+    background: url('../img/bubble.png') no-repeat;
+    background-size: 100% 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+.articles {
+  article {
+    padding: 1em $wrapper-horiz-spacing;
+    border-top: 1px dashed #ccc;
+
+    &:first-child {
+      padding-top: 0;
+      border-top: 0;
+    }
+  }
+}
+
+/* --------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------- */
+[role="contentinfo"] {
+  background: #e9f2f2;
+
+  .container {
+    @include font-size(12px);
+    padding: .5em $wrapper-horiz-spacing 1em;
+    text-align: center;
+    color: #666;
+  }
+}
+

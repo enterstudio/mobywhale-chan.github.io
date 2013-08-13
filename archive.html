@@ -1,0 +1,25 @@
+---
+layout: page
+title: Archive
+---
+
+    <section>
+        <table class="table-divider" summary="An archive of my posts">
+            <thead>
+                <tr>
+                    <th width="30%"><span class="hide-visually">Date published</span></th>
+                    <th><span class="hide-visually">Blog post name</span></th>
+                    <th><span class="hide-visually">Category</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for post in site.posts %}
+                <tr>
+                    <td><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>  
+                    <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+                    <td><span class="category"><i class="icon-tag"></i> {{post.categories | category_links}}</span></td>
+                </tr>
+        	   {% endfor %}
+            </tbody>
+        </table>
+    </section>

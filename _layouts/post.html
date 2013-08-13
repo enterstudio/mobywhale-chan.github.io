@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+      <time class="type-s type-muted" datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time>
+      <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="entry">{{ content }}</div>
+
+  <footer>
+    <p class="type-s type-muted">Tag: {{ page.categories | category_links }}</p>
+  </footer>
+</article>
+
