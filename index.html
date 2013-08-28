@@ -17,8 +17,6 @@ title: Home
         {% else %}
             {{ post.content }}
         {% endif %}
-        
-        <p class="type-s type-muted">Tag: {{ post.categories | category_links }}</p>
     </article>
 {% endfor %}
 </ul>
