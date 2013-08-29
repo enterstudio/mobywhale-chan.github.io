@@ -719,7 +719,7 @@ body {
 .container {
   width: 90%;
   min-width: 210px;
-  max-width: 1380px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -729,6 +729,11 @@ body {
 }
 .content .container {
   padding: 1em 0 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* --------------------------------------------------------------------
