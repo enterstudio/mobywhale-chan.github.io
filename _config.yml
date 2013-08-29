@@ -26,7 +26,7 @@ markdown: rdiscount
 auto: true
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
+permalink: /:year/:month/:title.html
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: ["README.markdown", "package.json", "grunt.js", "Gruntfile.js", "node_modules", "sass", "lib", "config.rb", "config", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace"]
