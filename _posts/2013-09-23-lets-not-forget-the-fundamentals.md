@@ -13,3 +13,10 @@ Everyday on Twitter, I get swamped with tweets about new web technology, new tec
 * Consider page weight especially if you have a lot of images. Even more so if you need to serve high-res images for retina screens
 
 Let's keep pushing the web forward, but also let's not forget the fundamentals.
+
+---------------------------------------
+
+Related readings:
+
+* [Progressive enhancement is still important](http://jakearchibald.com/2013/progressive-enhancement-still-important/)
+* [Design and Development: The Yin and Yang of Web Accessibility](http://simplyaccessible.com/article/both/)
