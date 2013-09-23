@@ -75,7 +75,7 @@ img {
 .articles {
   article {
     padding: 1em $wrapper-horiz-spacing;
-    border-top: 1px dashed #ccc;
+    border-top: 1px dashed $grey2;
 
     &:first-child {
       padding-top: 0;

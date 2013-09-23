@@ -20,3 +20,4 @@ Related readings:
 
 * [Progressive enhancement is still important](http://jakearchibald.com/2013/progressive-enhancement-still-important/)
 * [Design and Development: The Yin and Yang of Web Accessibility](http://simplyaccessible.com/article/both/)
+* [Web performance 2.0](http://gorkamolero.com/work/thought/Web-performance-2.html)

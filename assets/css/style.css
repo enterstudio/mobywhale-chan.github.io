@@ -698,6 +698,11 @@ table {
   border-top: 1px dashed #ccc;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #cccccc;
+}
+
 /* --------------------------------------------------------------------
    General
    -------------------------------------------------------------------- */
@@ -719,7 +724,7 @@ body {
 .container {
   width: 90%;
   min-width: 210px;
-  max-width: 1200px;
+  max-width: 980px;
   margin: 0 auto;
 }
 
@@ -774,7 +779,7 @@ img {
 
 .articles article {
   padding: 1em 0.2em;
-  border-top: 1px dashed #ccc;
+  border-top: 1px dashed #cccccc;
 }
 .articles article:first-child {
   padding-top: 0;
