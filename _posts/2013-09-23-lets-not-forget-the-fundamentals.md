@@ -16,5 +16,6 @@ Let's keep pushing the web forward, but also let's not forget the fundamentals.
 ---------------------------------------
 
 Related readings:
+
 * [Progressive enhancement is still important](http://jakearchibald.com/2013/progressive-enhancement-still-important/)
 * [Design and Development: The Yin and Yang of Web Accessibility](http://simplyaccessible.com/article/both/)
