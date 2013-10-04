@@ -4,7 +4,7 @@ title: First SydCSS
 category: Web
 ---
 
-I'M ON SUCH A HIGH RIGHT NOW! Seriously, I'm buzzing. Not from an overdose of caffeine or sugar, but because THE FIRST NIGHT OF [SYDCSS](http://www.sydcss.com) WAS A FRIGGING SUCCESS! I am just soooooo happy with how well it went. Can we please rewind the clock so we can do it all again? It's almost 12:30am now but I just want to capture everything about the night while it's still fresh in my mind.
+I'M ON SUCH A HIGH RIGHT NOW! Seriously, I'm buzzing. Not from an overdose of caffeine or sugar, but because THE FIRST NIGHT OF [SYDCSS](http://www.sydcss.com) WAS A FRIGGING SUCCESS! I am just soooooo happy with how well it went. It's almost 12:30am now but I just want to capture everything about the night while it's still fresh in my mind.
 
 ###Why SydCSS?
 I love CSS (most of the time). And I love talking to people about CSS/front-end in general. A lot of people I follow on Twitter from the US and Europe would tweet about various CSS-related talks at different meetups. They always made me feel jealous and a little sad that we didn't have something similar here. I really wanted to have the same tight knit community they've got, so I could share with people the new RWD technique I learnt, or whinge together about the difficulty of doing vertical alignment in this day and age. I just wanted to meet more people like me, so what better way to do that than to start a meetup group to bring everyone together! :) Lucky for me, my friend [David](http://www.twitter.com/dp_lewis) was keen on the idea as well and was more than happy to help put this together. 
