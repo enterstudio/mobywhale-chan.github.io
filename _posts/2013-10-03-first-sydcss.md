@@ -34,6 +34,10 @@ Our happy audience!
 ###The first of many
 Both David and I were so happy with how well it went. We really couldn't have asked for a better start. Feedbacks have all been positive so far and we are looking forward to making the next one even better. I also just want to give a shout-out to David for being such a great organiser. He thought of all the details I didn't think about and did a lot of the preparation. Thanks David!!!
 
+###Want to join? Or sponsor?
+If you want to get notified about when our next meetup is going to be, go to [sydcss.com](http://sydcss.com). And if you are interested in sposnoring this fun and friendly community, you can contact us at **sydcss at gmail dot com**.
+
+
 So... can we rewind the clock now and do SydCSS all over again tonight?
 
 ![Happy organisers]({{ site.url }}/assets/img/photos/sydcss05.jpg)
