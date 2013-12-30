@@ -13,7 +13,7 @@ Ah it's been more two months since I last blogged. Life's been very busy the pas
 * Did my first public speaking at Web Directions "What Do You Know" about [how to create a living style guide](https://speakerdeck.com/mobywhale/how-to-create-a-living-style-guide)
 * Got my own place
 * Started up [SydCSS](http://sydcss.com)
-* Spoke at Web Directions Sotuh for the first time about [how to avoid spaghetti code in your CSS](https://www.youtube.com/watch?v=k1VOpxdoRIY)
+* Spoke at Web Directions South for the first time about [how to avoid spaghetti code in your CSS](https://www.youtube.com/watch?v=k1VOpxdoRIY)
 * Got married
 
 It felt like everything was happening at once especially the last three months. It was stressful but  I'm so glad the year has turned out the way it did. My biggest takeaway for the year? Confidence. Even though I only spoke publicly a grand total of 25 minutes in the entire year, it still gave me a lot more confidence than anything else I've done.
