@@ -293,7 +293,8 @@ h6, .h6 {
   font-size: 14px;
   font-size: 0.875rem; }
 
-p {
+p,
+ul {
   margin: 0 0 2em; }
 
 pre,
@@ -390,6 +391,8 @@ img {
 [role="banner"] {
   margin-bottom: 3em;
   text-align: center; }
+  [role="banner"] p {
+    margin-bottom: 1em; }
 
 .logo {
   margin: 0 0 1.35em; }

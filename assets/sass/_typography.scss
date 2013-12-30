@@ -63,7 +63,8 @@ h6, .h6 {
   @include font-size(14px);
 }
 
-p {
+p,
+ul {
   margin: 0 0 2em;
 }
 
