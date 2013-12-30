@@ -3,8 +3,8 @@
    -------------------------------------------------------------------- */
 html {
   height: 100%;
-  padding-top: 15px; 
-  @include background-diagonal-stripes(40deg, #72d4d8, rgba(255,255,255, .5), 40px);
+  padding-top: 15px;
+  @include striped-bg(#b8e9eb, 15%);
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 .container {
   width: 90%;
   min-width: 210px;
-  max-width: 980px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -62,7 +62,7 @@ img {
     position: absolute;
     left: 75px;
     top: -15px;
-    display: inline-block;  
+    display: inline-block;
     padding: 20px px-em(10px, 36px) 25px px-em(17px, 36px);
     text-align: center;
     background: url('../img/bubble.png') no-repeat;

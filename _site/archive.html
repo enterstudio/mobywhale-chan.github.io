@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8"/>
 
-    <title>{% if page.title %} {{ page.title }} | {% endif %} Blog by Fiona Chan</title>
+    <title> Archive |  Blog by Fiona Chan</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
 
     <link rel="shortcut icon" href="/favicon.ico">
   </head>
@@ -29,29 +29,73 @@
         <header role="banner">
           <div class="logo">
             <div class="logo-inner">
-              <a href="{{site.baseurl}}/">
+              <a href="/">
                 <img src="/assets/img/logo.jpg" alt="Fiona Chan">
                 <h1>Hello!</h1>
               </a>
             </div>
           </div>
 
-          {% if page.title == "Home" %}
-          <p class="h4"><em>Front-end, food, life and other random things I love.</em></p>
-          {% endif %}
+          
 
           <nav role="navigation">
             <ul class="list-sep">
-                <li><a href="{{site.baseurl}}/">Home</a></li>
-                <li><a href="{{site.baseurl}}/about.html">About</a></li>
-                <li><a href="{{site.baseurl}}/archive.html">Archive</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/archive.html">Archive</a></li>
             </ul>
           </nav>
         </header>
 
         <main role="main">
 
-            {{ content }}
+            <div class="post">
+
+  <h2>Archive</h2>
+
+	<div class="entry">    <section>
+        <table class="table-divider" summary="An archive of my posts">
+            <thead>
+                <tr>
+                    <th width="20%"><span class="hide-visually">Date published</span></th>
+                    <th><span class="hide-visually">Blog post name</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td><time datetime="2013-12-30">Dec 30, 2013</time></td>  
+                    <td><a href="/2013/12/what-a-year.html">What a year</a></td>
+                </tr>
+        	   
+                <tr>
+                    <td><time datetime="2013-10-03">Oct 03, 2013</time></td>  
+                    <td><a href="/2013/10/first-sydcss.html">First SydCSS</a></td>
+                </tr>
+        	   
+                <tr>
+                    <td><time datetime="2013-09-24">Sep 24, 2013</time></td>  
+                    <td><a href="/2013/09/lets-not-forget-the-fundamentals.html">Let's not forget the fundamentals</a></td>
+                </tr>
+        	   
+                <tr>
+                    <td><time datetime="2013-08-21">Aug 21, 2013</time></td>  
+                    <td><a href="/2013/08/what-i-learnt-about-working-remotely.html">What I learnt about working remotely</a></td>
+                </tr>
+        	   
+                <tr>
+                    <td><time datetime="2013-08-13">Aug 13, 2013</time></td>  
+                    <td><a href="/2013/08/hello-blog.html">Hello blog!</a></td>
+                </tr>
+        	   
+            </tbody>
+        </table>
+    </section>
+</div>
+
+</div>
+
+
 
         </main>
 
@@ -60,7 +104,7 @@
 
     <footer role="contentinfo">
       <div class="container">
-        <p>Copyright &copy; <time>2013</time> {{ site.author }}.</p>
+        <p>Copyright &copy; <time>2013</time> Fiona Chan.</p>
         <ul class="list-sep">
           <li><a href="http://twitter.com/mobywhale">Twitter</a></li>
           <li><a href="http://www.github.com/mobywhale-chan">Github</a></li>

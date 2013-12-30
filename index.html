@@ -8,10 +8,10 @@ title: Home
 {% for post in site.posts limit: 10 %}
     <article>
         <header>
-            <time class="article-date type-muted type-s" datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time>
-            <h2 class="article-heading"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+            <time class="type-muted type-s" datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time>
+            <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
         </header>
-        
+
         {% if post.content contains '<!--more-->' %}
             {{ post.content | split:'<!--more-->' | first }}
         {% else %}

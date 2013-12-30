@@ -31,17 +31,17 @@ h6, .h6,
 h1, .h1 {
   @include font-size(32px);
   line-height: 1.3;
-  margin: .2em 0;
+  margin: .4em 0;
 }
 
 h2, .h2 {
   @include font-size(28px);
   line-height: 1.15;
-  margin: .2em 0 .6em;
+  margin: .2em 0 .8em;
 }
 h3, .h3 {
   @include font-size(24px);
-  margin: .5em 0 0;
+  margin: 0 0 .2em;
 }
 h4, .h4 {
   @include font-size(20px);
@@ -64,7 +64,7 @@ h6, .h6 {
 }
 
 p {
-  margin: 0 0 1.5em;
+  margin: 0 0 2em;
 }
 
 pre,
