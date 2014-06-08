@@ -10,4 +10,6 @@ But I don't think our speakers would feel as comfortable without the warm and fr
 
 I really love SydCSS. Talking about it and orgainsing it with David energises me and gives me something to look forward to. But it wouldn't be the same without the amazing crowd of people we have everytime.
 
-![](http://photos-g.ak.instagram.com/hphotos-ak-xfa1/915557_1579783508914750_1938460834_n.jpg)
+<div class="txt-center">
+  <img src="http://photos-g.ak.instagram.com/hphotos-ak-xfa1/915557_1579783508914750_1938460834_n.jpg" alt="SydCSS crowd">
+</div>
