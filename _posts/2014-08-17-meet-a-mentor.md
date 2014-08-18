@@ -28,6 +28,6 @@ A lot of people I have met are very generous and kind people. They have voluntar
 ###Be passionate
 No matter at what stage of your career, I really think showing a passion will make you stand out from the crowd. Show people what you're interested in, your drive and willingness to learn. I've done a few interviews at companies I've worked at, and candidates who are passionate are quite infectious. We always ended up having great discussions and it stopped being the same old interview. Skills can be built up, but a lot harder for passion to develop if you don't already have it.
 
-Talking to the attendees on the night really brought back memories to how I started in tech and the journey I took. I wish there was something like this Meet A Mentor night when I started. I hope that by sharing my experience, I'm able to help and encourage people who are just starting out, and make that first step a little less scary and daunting for them.
+Talking to the attendees on the night really brought back memories to how I started in tech and the journey I took. I wish there was something like Meet A Mentor when I started. I hope that by sharing my experience, I'm able to help and encourage people who are just starting out, and make that first step a little less scary and daunting for them.
 
-Thank you again to Georgina and Lookahead Search for organising the night. I hope there'll be more meetups like this in the future :)
+Thank you again to Georgina and Lookahead Search for organising the night. And to the attendees and people who are just starting out, keep at it, keep learning and stay passionate.
