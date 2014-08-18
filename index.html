@@ -5,7 +5,7 @@ title: Home
 
 <!-- Show last 5 posts here -->
 <div class="articles">
-{% for post in site.posts limit: 10 %}
+{% for post in paginator.posts %}
     <article>
         <header>
             <time class="type-muted type-s" datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time>
@@ -19,4 +19,21 @@ title: Home
         {% endif %}
     </article>
 {% endfor %}
-</ul>
+</div>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">&laquo; Prev</a>
+  {% else %}
+    <span class="pagination-page">&laquo; Prev</span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">Next &raquo;</a>
+  {% else %}
+    <span class="pagination-page">Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}

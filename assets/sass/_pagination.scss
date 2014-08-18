@@ -1,0 +1,14 @@
+.pagination {
+  text-align: center;
+  font-size: 16px;
+}
+
+.pagination-page {
+  display: inline-block;
+  padding: 0 0 0 10px;
+  // border: 1px solid $grey2;
+
+  &:first-child {
+    padding-left: 0;
+  }
+}
