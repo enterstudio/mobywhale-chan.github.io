@@ -6,9 +6,10 @@ category: general
 
 Last Thursday night, I attended the first [Meet a Mentor](http://www.meetup.com/Meet-a-mentor-for-students-of-technology/) meetup in Sydney as a mentor, which was organised by my friend [Georgina](https://twitter.com/GRobilliard) from [Lookahead Search](http://www.lookahead.com.au/). The idea of the night was for anyone who was interested in the tech industry to meet people who work in the industry and ask them questions. Each table of students will have two mentors. Attendees will get 12 minutes to ask the mentors at the table any questions. When the time is up, the mentors will move onto a different table. Kind of like speed dating! I really liked the idea and was really excited when I was asked to be a part of it.
 
-<div class="txt-center">
-  <img src="http://photos2.meetupstatic.com/photos/event/3/0/7/2/highres_398172402.jpeg" alt="Meet A Mentor night at Metropolitan Hotel">
-</div>
+<figure class="txt-center">
+  <a href="http://www.meetup.com/Meet-a-mentor-for-students-of-technology/photos/23846942/"><img src="http://photos2.meetupstatic.com/photos/event/3/0/7/2/highres_398172402.jpeg" alt="Meet A Mentor night at Metropolitan Hotel"></a>
+  <figcaption class="type-muted type-s">Meet A Mentor night at Metropolitan Hotel. Photo credit: Meet A Mentor meetup</figcaption>
+</figure>
 
 The night was held at Metropolitan Hotel. We had 6 tables of attendees and 10 mentors from all kinds of backgrounds (developer, designer, UX, product manager). Most of the attendees were students from Uni/TAFE/intensive courses. Some were people who want to make a change into the tech industry. Lots were discussed that night but I'll outline the main things I've shared with the attendees:
 
