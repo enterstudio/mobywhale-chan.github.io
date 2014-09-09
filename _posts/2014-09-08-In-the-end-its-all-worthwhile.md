@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What makes it all worthwhile
+title: In the end, it's all worthwhile
 category: general
 ---
 
