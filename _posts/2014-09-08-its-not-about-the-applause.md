@@ -9,6 +9,7 @@ Recently at work, we started doing Show & Tell at Friday lunch every few weeks. 
 Accessibility is a very much undervalued topic. It's great to see that there have been more talks about it  in conferences recently, from people like [Marcy Sutton](https://twitter.com/marcysutton). A lot of the times accessibility is ignored not  because people don't care, but because they don't know about it, or not aware of how easy some things can be done to improve it. That's why I wanted to do the talk: to raise awareness about it within the team.
 
 The title of my talk was [Accessibility: busting a few misconceptions](https://speakerdeck.com/mobywhale/accessibility-busting-a-few-misconceptions). When people don't understand a topic, there are generally a lot of misconceptions around it. So the aim of my talk was to... well, bust those misconceptions! The basic outline of my talk:
+
 * Why it's wrong to think you don't have users with disabilities
 * Why it's not optional
 * Why it adds a lot of business values
