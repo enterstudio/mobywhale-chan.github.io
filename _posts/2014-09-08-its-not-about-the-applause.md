@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In the end, it's all worthwhile
+title: It's not about the applause
 category: general
 ---
 
