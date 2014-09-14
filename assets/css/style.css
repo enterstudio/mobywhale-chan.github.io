@@ -97,14 +97,14 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* -------------------------------------------------------------------- Base typography -------------------------------------------------------------------- */
 body { font-size: 18px; font-size: 1.125rem; line-height: 1.5; color: #333333; }
 
-body, input, select, textarea { font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; }
+body, input, select, textarea { font-family: Georgia, "Times New Roman", serif; }
 
 /* -------------------------------------------------------------------- Headings and paragraph -------------------------------------------------------------------- */
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .type-alt { font-weight: 300; font-family: Vollkorn, "Times New Roman", serif; }
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .type-alt { font-weight: 300; font-family: "Source Sans Pro", "Arial black", Arial, sans-serif; }
 
 h1, .h1 { font-size: 32px; font-size: 2rem; line-height: 1.3; margin: .4em 0; }
 
-h2, .h2 { font-size: 28px; font-size: 1.75rem; line-height: 1.15; margin: .2em 0 .8em; }
+h2, .h2 { font-size: 28px; font-size: 1.75rem; line-height: 1.15; margin: 0 0 .8em; font-weight: 700; }
 
 h3, .h3 { font-size: 24px; font-size: 1.5rem; margin: 0 0 .2em; }
 
@@ -147,7 +147,7 @@ table { width: 100%; }
 
 hr { border: 0; border-top: 1px solid #cccccc; }
 
-.pagination { text-align: center; font-size: 16px; }
+.pagination { text-align: center; font-size: 16px; font-family: "Source Sans Pro", "Arial black", Arial, sans-serif; }
 
 .pagination-page { display: inline-block; padding: 0 0 0 10px; }
 .pagination-page:first-child { padding-left: 0; }
@@ -165,16 +165,18 @@ body { min-height: 100%; background: #e9f2f2; }
 img { max-width: 100%; height: auto; }
 
 /* -------------------------------------------------------------------- Header -------------------------------------------------------------------- */
-[role="banner"] { margin-bottom: 3em; text-align: center; }
+[role="banner"] { margin-bottom: 3em; text-align: center; font-family: "Source Sans Pro", "Arial black", Arial, sans-serif; }
 [role="banner"] p { margin-bottom: 1em; }
 
 .logo { margin: 0 0 1.35em; }
 .logo .logo-inner { position: relative; display: inline-block; padding-top: 50px; }
 .logo img { width: 100px; border-radius: 100%; border: 5px solid #000; }
-.logo h1 { font-size: 2em; line-height: 1; position: absolute; left: 75px; top: -15px; display: inline-block; padding: 20px 0.27778em 25px 0.47222em; text-align: center; background: url("../img/bubble.png") no-repeat; background-size: 100% 100%; -moz-box-sizing: border-box; box-sizing: border-box; }
+.logo h1 { font-weight: 700; font-size: 1.8em; line-height: 1; position: absolute; left: 75px; top: -15px; display: inline-block; padding: 20px .5em 28px .5em; text-align: center; background: url("../img/bubble.png") no-repeat; background-size: 100% 100%; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 .articles article { padding: 1em 0.2em; border-top: 1px dashed #cccccc; }
 .articles article:first-child { padding-top: 0; border-top: 0; }
+
+article time { font-family: "Source Sans Pro", "Arial black", Arial, sans-serif; }
 
 /* -------------------------------------------------------------------- Footer -------------------------------------------------------------------- */
 [role="contentinfo"] { background: #e9f2f2; }

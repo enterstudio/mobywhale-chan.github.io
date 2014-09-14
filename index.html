@@ -8,7 +8,7 @@ title: Home
 {% for post in paginator.posts %}
     <article>
         <header>
-            <time class="type-muted type-s" datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time>
+            <time class="type-muted" datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time>
             <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
         </header>
 
