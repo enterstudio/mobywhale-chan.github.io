@@ -1,9 +1,8 @@
 ---
 layout: post
+title: IgniteSydney [Digital]
 category: general
 ---
-
-## IgniteSydney [Digital]
 
 A couple of weeks ago, I spoke at IgniteSydney - Digital about the pros and cons of design frameworks. This is the first talk where I put my hand up for it and submitted a talk proposal. I'm not someone who loves public speaking. To be honest, I actually don't like preparing for them. But I decided to do one for IgniteSydney because
 
