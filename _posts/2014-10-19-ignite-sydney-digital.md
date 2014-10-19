@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+category: general
 ---
 
 ## IgniteSydney [Digital]
