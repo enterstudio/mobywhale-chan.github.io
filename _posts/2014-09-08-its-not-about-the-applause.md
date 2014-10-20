@@ -1,7 +1,8 @@
 ---
 layout: post
-title: It's not about the applause
+title: "It's not about the applause"
 category: general
+published: true
 ---
 
 Recently at work, we started doing Show & Tell at Friday lunch every few weeks. The idea is to share knowledge within the team. My manager asked if I'd like to do one about accessibility and I did not hesitate in putting my name down for it. Why? It's not really because I _love_ presenting (at the same time I don't hate it anymore). It's an easier and better way of raising awareness and distributing knowledge about it. Easier than trying to catch every problem in code review.
@@ -24,3 +25,5 @@ When I got back to my desk, the project coordinator messaged me to say that afte
 So this. This is what it is all about. I wanted to do the presentation to raise awareness. If something from the talk sticks in one person's mind, then I think my talk is already worthwhile. More than one person? Well, that just made my day :) Doing a presentation isn't about getting a reaction from your audience, or getting applause at the end of it. It's about sharing what you know and helping others get something positive out of it, even if it may not be apparent at first.
 
 I need to remember that.
+
+[UPDATE] I also blogged about the presentation on [Learnosity's blog](http://www.learnosity.com/blog/2014/10/accessibility-busting-a-few-misconceptions/), with more details around what I talked about in the presentation.
