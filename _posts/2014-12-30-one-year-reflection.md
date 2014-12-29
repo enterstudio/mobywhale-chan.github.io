@@ -1,16 +1,17 @@
 ---
 published: true
+title: One Year Reflection
 layout: post
 category: general
 ---
 
-As the year comes to an end, I'd like to reflect a little on my experience running a meetup. It's been a bit more than 1 year since [David](http://twitter.com/dp_lewis) and I started [SydCSS](http://sydcss.com) and what a fun year it's been! We started with not really knowing what we were doing, but after a bit of trial and error, I think we now have a pretty good idea of what works well and what doesn't. Every meetup is different, but these are the things that have worked out well for us:
+It's been a bit more than 1 year since [David](http://twitter.com/dp_lewis) and I started [SydCSS](http://sydcss.com) and what a fun year it's been! We started with not really knowing what we were doing, but after a bit of trial and error, I think we now have a pretty good idea of what works well and what doesn't. Every meetup is different, but these are the things that have worked out well for us:
 
 ### Organise it with someone
-Organising things take a lot of time. It's particularly harder when you can only do it after work or on the weekend. It's also a lot less fun doing it on your own. Working with [David](http://twitter.com/dp_lewis) has been awesome. We are lucky that we work very well together. We split the worklaod, bounce ideas off each other, MC together... I certainly had a lot of fun and know that SydCSS wouldn't be where it is without his help and some of his (at times crazy) ideas ;)
+Organising things take a lot of time. It's particularly harder when you can only do it after work or on the weekend. It's also a lot less fun doing it on your own. Working with David has been awesome. We are lucky that we work very well together. We split the worklaod, bounce ideas off each other, MC together... I certainly had a lot of fun and know that SydCSS wouldn't be where it is without his help and some of his (at times crazy) ideas ;)
 
 ### Provide fingerfood
-Right from the beginning, we didn't like the idea of providing pizza. Most meetups have pizzas and personally, I get quite tired of them. I understand why people serve them though. They are economic for big crowds and can fill a hungry stomach very easily. To provide anything that's not pizza but also filling is costly. As an alternative, we thought maybe we could serve snacks and fingerfood. It started with [homemade popcorn](http://fionachan.net/2013/10/first-sydcss.html) and every meetup we would provide different snacks. We were worried at the start that people will complain about not having food that's filling. But we let people know well in advance that there'll only be fingerfood so they should grab a bite before they come to the meetup. So far this plan is going well. By the way, if you're looking for economical catering option, you should totally get in touch with [Made By Mith](https://www.facebook.com/madebymith). They've been making all the very yummy fingerfood for SydCSS and also for RailsGirls recently.
+Right from the beginning, we didn't like the idea of providing pizza. Most meetups have pizzas and personally, I get quite tired of them. I understand why people serve them though. They are economic for big crowds and can fill hungry stomachs very easily. To provide anything that's not pizza but also filling is costly. As an alternative, we thought maybe we could serve snacks and fingerfood. It started with [homemade popcorn](http://fionachan.net/2013/10/first-sydcss.html) and every meetup we would provide different snacks. We were worried at the start that people will complain about not having food that's filling. But we let people know well in advance that there'll only be fingerfood so they should grab a bite before they come to the meetup. So far this plan is going well. By the way, if you're looking for economical catering option, you should totally get in touch with [Made By Mith](https://www.facebook.com/madebymith). They've been making all the very yummy fingerfood for SydCSS and also for RailsGirls recently.
 
 ### Keep the night short and sweet
 Most people go to meetups after work. After a long day of work, people will probably want to avoid long presentations. We try to keep our nights short. Most of our nights consist of 2 x 20-minute presentations, with a 5-10 minutes break in between. There were maybe a couple of nights when they went for a bit longer, and we could feel the energy in the room slowly died away near the end. Whereas if we kept it to be about 75 minutes long, we usually ended the night on a high.
@@ -24,7 +25,7 @@ Other than working with a co-organiser, having volunteers on the night to help y
 ### Keeping the vibe casual and fun
 Out of everything, one thing that I think made SydCSS a successful meetup is its casual and fun vibe. We found the duo MC'ing really helped with that. David and I always have fun making silly jokes while MC'ing and luckily people do laugh at them. Or maybe they were just laughing at us :) Either way, as long as they laugh, it's all good. We host the meetup at Web Directions office. Although the space is not very big and it can get a bit cramped, we really love the casual feel of the space. It's different to your typical office with rows of desks and fluorescent lights. I think it definitely helps with the vibe of the night.
 
-It's really hard to believe it's only been one year since SydCSS started. We grew from 2 members (me and David) to now more than 740 SydCSS-ers. I'm really proud of it. 
+It's really hard to believe that SydCSS grew from 2 members (me and David) to now more than 740 SydCSS-ers. I'm really proud of it. 
 
 <figure class="txt-center">
     <img src="http://fionachan.net/assets/img/photos/sydcss04.jpg" alt="First SydCSS">
