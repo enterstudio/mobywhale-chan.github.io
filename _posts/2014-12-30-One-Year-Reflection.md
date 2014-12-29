@@ -39,9 +39,13 @@ It's really hard to believe it's only been one year since SydCSS started. We gre
 There are so many people I need to thank:
 
 - Sponsors ([Web Directions](http://webdirections.org), [Campaign Monitor](http://campaignmonitor.com), [Lookahead Search](http://www.lookahead.com.au/), [ansarada](http://www.ansarada.com/)) - thank you for your very generous support in building this community
+
 - Volunteers - thank you for helping us in making sure the nights run as smoothly as possible
+
 - Speakers - I know how much time presentations take to prepare, so thank you for giving up your valuable time in preparing for them and sharing your knowledge with us
+
 - My co-organiser David - if there's an award for best co-organiser, I'd totally give it to David. Thank you for your passion, your super organisation skills, your crazy and brilliant ideas and so much more. I honestly cannot ask for a better person to organise SydCSS with
+
 - Everyone who's ever attended SydCSS - THANK YOU! None of this would have been possible without _you_ attending our events. Thank you so much for your enthusiasm, support and encouragement. I am constantly amazed by how great the community is, so thank you for being so awesome :)
 
 One of my many plans for 2015 is to make SydCSS even better. I honestly can't wait to see where we'll be this time next year!
