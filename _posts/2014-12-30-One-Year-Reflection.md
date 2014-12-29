@@ -37,6 +37,7 @@ It's really hard to believe it's only been one year since SydCSS started. We gre
 </figure>
 
 There are so many people I need to thank:
+
 - Sponsors ([Web Directions](http://webdirections.org), [Campaign Monitor](http://campaignmonitor.com), [Lookahead Search](http://www.lookahead.com.au/), [ansarada](http://www.ansarada.com/)) - thank you for your very generous support in building this community
 - Volunteers - thank you for helping us in making sure the nights run as smoothly as possible
 - Speakers - I know how much time presentations take to prepare, so thank you for giving up your valuable time in preparing for them and sharing your knowledge with us
