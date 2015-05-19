@@ -79,14 +79,6 @@ So, I hope this blog post has managed to encourage some of you to give public sp
 
 There are lots of fantastic resources online about public speaking, and here are a few I've chosen:
 
-- [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak)
-
-Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
-
-- [http://speaking.io/](http://speaking.io/)
-
-List of tips on public speaking
-
-- [http://ladiesintech.com/speaker-notes/](http://ladiesintech.com/speaker-notes/)
-
-Handy speaking tips from Rebecca Murphey
+- [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak) - Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
+- [http://speaking.io/](http://speaking.io/) - List of tips on public speaking
+- [http://ladiesintech.com/speaker-notes/](http://ladiesintech.com/speaker-notes/) - Handy speaking tips from Rebecca Murphey
