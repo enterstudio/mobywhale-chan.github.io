@@ -2,7 +2,8 @@
 published: false
 ---
 
-About a few weeks ago, I did a talk at Girl Geeks Sydney on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
+
+About a few weeks ago, I did a talk at [Girl Geeks Sydney](http://www.eventbrite.com.au/e/girl-geek-sydney-meetup-april-2015-registration-16424320585) on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
 
 ## The fear of public speaking
 Most people I come across don’t enjoy public speaking. As Mark Twain once said, “There are only two types of speakers in the world: the nervous and liars”. If someone tells you they’re not nervous before giving a talk, most of the time they are lying. Glossohpbia - speech anxiety or a fear of public speaking - affects [75% of people](http://en.wikipedia.org/wiki/Glossophobia#cite_note-3 ). Some people fear it even more than death! That just goes to show how scary it can be.
@@ -30,57 +31,56 @@ We all want to be liked, so it’s normal to worry about people not liking our p
 ### There isn’t right or wrong sometimes
 Often we worry the information we give out is incorrect but a lot of the times, there isn’t really right or wrong. It might just be your approach to a problem is different, but it doesn’t make it wrong. For example, if I give a talk about CSS naming conventions, my approach might be different to other people’s, but it doesn’t necessarily mean it’s wrong. We all approach problems differently under different circumstances, and that’s what makes all our talks unique in their own ways.
 
-## Ok, so what?
+## Hmm I'm not sure still...
 By now you might be thinking, “I’m still not convinced yet. Why should I put myself through the stress and hard work?”. Well, there are lots of reasons why you should give public speaking a go:
 
 ### Improves critical thinking
-Every decision you make regarding your talk requires you to think critically from when you decide the topic of your talk to when you present on the stage. There are so many decisions to be made:
+Every decision you make regarding your talk requires you to think critically - from when you decide the topic of your talk to when you present on the stage. There are so many decisions to be made:
 * What’s the focus of the talk?
 * How to structure content?
 * What’s important to the audience? What would interest them?
 * How to design your slides? 
 * How to deliver your presentation within the time limit?
 
-It is therefore no surprise that presentations take so long to prepare for, because there are all these decisions you need to make! It gets easier though. The more you do it, the quicker you’ll be able to work out the content for your talk.
+It is therefore no surprise that presentations take so long to prepare for! It gets easier though. The more you do it, the quicker you’ll be able to work out the content for your talk.
 
 ### Improves communication
-Doing presentations no doubt teaches you how to explain ideas in a succinct and engaging way. But to also do it within a set time limit as well really forces you to think how to communicate your message in the simplest way. I found this especially true when it comes to explaining code. I once did a talk on block formatting context. The spec for that was already confusing, so needing to explain it to the audience in a simple and engaging way made it a very challenging presentation to prepare for. It got easier though and I feel I got better at it. Good communication skills aren’t just useful for presentations, but are also very important in our every day life. 
+Doing presentations no doubt teaches you how to explain ideas in a succinct and engaging way. But to also do it within a set time limit as well really forces you to think how to communicate your message in the simplest way. I found this especially true when it comes to explaining code. I once did a talk on block formatting context. The spec for that was already confusing, so needing to explain it to the audience clearly and simply made it a very challenging presentation to prepare for. It got easier though and I feel I got better at it. Good communication skills aren’t just useful for presentations, but are also very important in our every day life. 
 
 ### Builds up your confidence
-It takes a lot of courage to be able to stand in front of a crowd and tell them what you know. You might get all kinds of worries before giving a talk: are you going to do a good presentation? Is the audience going to like the content? Are you going to stumble and forget your words? But like everything else, the more you do it, the easier it become and the more confident you become in your ability. For some people (including myself), that self-doubt might always be there but I promise it does get easier.
+It takes a lot of courage to be able to stand in front of a crowd and tell them what you know. You might get all kinds of worries before giving a talk: are you going to do a good presentation? Is the audience going to like the content? Are you going to stumble and forget your words? But like everything else, the more you do it, the easier it gets and the more confident you become. For some people (including myself), that self-doubt might always be there but I promise it does get easier.
 
 ### Establishes your credibility
-Doing talks in front of your peers really increases your profile in the community. And when you’re being thought of as someone who understands their subject matter, doors to new opportunities will start opening up in front of you e.g. invitation to write for publications, travel overseas to speak at conferences and of course, new and exciting job opportunities. Employers love people who’ve done public speaking as it shows the person has confidence and knows what they’re talking about. While this doesn’t mean you instantly get hired (I mean, you still need to go through the normal interview process I’m sure), but it’ll definitely give you some extra brownie points. 
+Doing talks in front of your peers really increases your profile in the community. And when you’re being thought of as someone who understands their subject matter, doors to new opportunities will start opening up in front of you e.g. invitation to write for publications, travel overseas to speak at conferences and of course, new and exciting job opportunities. Employers love people who’ve done public speaking as it shows the person has confidence and knows what they’re talking about. While this doesn’t mean you instantly get hired (I mean, you still need to go through the normal interview process I’m sure), it’ll definitely give you some extra brownie points. 
 
 ### Very rewarding experience
-But most of all, public speaking is a truly rewarding experience. The audience is naturally drawn to talking with speakers. So at the end of your talk, you might have people come up to ask you questions about your talk, have further discussions with you and maybe even tell you how much they enjoy your talk! And for me, it's most rewarding when people say they've learnt something from you. Nothing beats knowing what you've shared with the audience has helped them gain something useful out of it.
+But most of all, public speaking is a truly rewarding experience. The audience is naturally drawn to talking with speakers. So at the end of your talk, you might have people come up to ask you questions about your talk, have further discussions with you and maybe even tell you how much they've emjoyed it! And for me, it's most rewarding when people say they've learnt something from you. Nothing beats knowing what you've shared with the audience has helped them gain something useful out of it.
 
+## Ok I'm convinced! How should I actually start?
 Now that you've heard all these great things public speaking brings you, you are ready to get give it a go! So how do you go about getting started?
 
 ### Pick a topic
-First, you need to pick a topic - something you are passionate about and already know well. Like I've said earlier, it doesn't need to be anything ground breaking. Maybe it can be about one particular technology you've used in your recent project (people love case studies), or some research you've done and what you found out. It's best to pick a topic that is good for a 5-10 minutes talk. Planning a talk and preparing slides take a lot of time. Shorter talks mean you don't need to spend as much time preparing for it and more time for practicing.
-
-### Practice, practice, practice
-Once you have your talk ready, you need to practice it. I cannot stress how important this is. The earlier you do it the better, as you might find that your timing isn't quite right, or the flow of your content needs adjusting. Another reason why short talks are good is because you can practice it many more times! A 5 minutes talk means you can practice it 5-6 times in an hour. But don't just practice in front of your mirror. Make sure you practice in front of a crowd, or at least a couple of people who can give you some honest feedback. For all my talks, I always get super nervous a few days before. But once I've practiced it in front of some people and got through my slides, I feel a lot more confident about doing it in front of a crowd of audience.
+First, you need to pick a topic. Pick something you are passionate about and already know well. Like I've said earlier, it doesn't need to be anything ground breaking. Maybe it can be about one particular technology you've used in your recent project (people love case studies), or some research you've done and what you found out. It's best to pick a topic that is good for a 5-10 minutes talk. Planning a talk and preparing slides take a lot of time. Shorter talks mean you don't need to spend as much time preparing for it and more time for practicing.
 
 ### Present it
-When it's all ready to go, you'll need to decide where to present it. Work is often a great place to start because that's in front of people you know well and hopefully feel comfortable with. Local meetups are so a great place to start. With my meetup SydCSS, we do a first-time speaker night I June to get people who haven't presented before to do a 5 minutes talk each. Lots of other meetups do lightning talks as well so make sure you reach out to the organisers. 
+When it's all ready to go, you'll need to decide where to present it. Work is often a great place to start because that's in front of people you know well and hopefully feel comfortable with. Local meetups are so a great place to start. With my meetup SydCSS, we do a first-time speaker night I June to get people who haven't presented before to do a 5 minutes talk each. Lots of other meetups do lightning talks as well so make sure you reach out to the organisers.
+
+### Practice, practice, practice
+No matter how much time you've spent perfecting your slides and researching into your topic, in the end it all comes down to how you deliver the presentation. Practice is the key to a good presentation, espeically for your first couple of talks. The earlier you do it the better, as you might find that you need to adjust your content or how you present because your timing or the flow isn't quite right. Another reason why short talks are good is because you can practice it many more times! A 5 minutes talk means you can practice it 5-6 times in an hour. But don't just practice in front of your mirror. Make sure you practice in front of an audience, or at least a couple of people who can give you some honest feedback. For all my talks, I always get super nervous a few days before. But once I've practiced it in front of some people and got through my slides, I feel a lot more confident about it.
 
 ## How do I feel about public speaking now?
-Since my very first presentation, I've done 6-7 othe presentations. I definitely feel more confident about my ability. I even feel confident enough to put my hand up at GirlGeeks to say I wanted to do this talk! Who would have thought! But do I still get scared before presenting? For sure I do! My fear monster is still lurking in the background but I'm able to control it much better and tell it to go away.
+Since my very first presentation, I've done 6-7 othe presentations. I definitely feel more confident about my ability now. I even feel confident enough to put my hand up at GirlGeeks to say I wanted to do this talk! Who would have thought! But do I still get scared before presenting? For sure I do! My fear monster is still lurking in the background but I'm able to control it much better and tell it to go away.
 
-Public speaking has changed me. It's opened up so many opportunities for me, got to speak at conferences and met some awesome people along the way. But most of all, it's given me tonnes more confidence. Without it, I wouldn't have the courage to start my own meetup SydCSS and even this blog.
+Public speaking has changed me. It's opened up so many opportunities for me, got to speak at conferences and met some awesome people along the way. But most of all, it's given me tonnes more confidence. Without it, I wouldn't have the courage to start my own meetup [SydCSS](http://sydcss.com) and even this blog.
 
+So, I hope this blog post has managed to encourage some of you to give public speaking a go. If it has, I'd love to hear about it :) Or if you feel like you want to do it but still have some doubts, let me know too and I'd love to help. 
 
-
-
-
-
-
-
-
-
-
-
+There are lots of fantastic resources online about public speaking, and here are a few I've chosen:
+- [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak)
+Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
+- [http://speaking.io/](http://speaking.io/)
+List of tips on public speaking
+- [http://ladiesintech.com/speaker-notes/](http://ladiesintech.com/speaker-notes/)
+Handy speaking tips from Rebecca Murphey
 
 
