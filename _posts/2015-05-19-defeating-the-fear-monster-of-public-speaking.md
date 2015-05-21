@@ -6,6 +6,7 @@ category: general
 
 
 
+
 About a few weeks ago, I did a talk at [Girl Geeks Sydney](http://www.eventbrite.com.au/e/girl-geek-sydney-meetup-april-2015-registration-16424320585) on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
 
 ## The fear of public speaking
@@ -81,8 +82,7 @@ So, I hope this blog post has managed to encourage some of you to give public sp
 Give it a go. You won't regret it.
 
 **Some extra resources**
+
 - [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak) - Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
 - [http://speaking.io/](http://speaking.io/) - List of tips on public speaking
 - [http://ladiesintech.com/speaker-notes/](http://ladiesintech.com/speaker-notes/) - Handy speaking tips from Rebecca Murphey
-
-
