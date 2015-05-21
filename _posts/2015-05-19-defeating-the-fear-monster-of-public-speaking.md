@@ -81,7 +81,7 @@ So, I hope this blog post has managed to encourage some of you to give public sp
 
 Give it a go. You won't regret it.
 
-**Some extra resources**
+#### Some extra resources
 
 - [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak) - Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
 - [http://speaking.io/](http://speaking.io/) - List of tips on public speaking
