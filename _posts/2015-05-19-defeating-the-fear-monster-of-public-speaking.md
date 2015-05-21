@@ -14,6 +14,7 @@ Most people I've come across don’t enjoy public speaking. As Mark Twain once s
 
 ## How I got started
 I’ve definitely been one of those people who was terrified of public speaking. I still do, but just less these days. So how did I begin my public speaking journey? It all started when my friend Jared messaged me one day to say, “You’re going to hate me… I just dobbed you in to do a 5 minutes talk at [Web Directions](http://webdirections.org) What Do You Know”. I didn’t think much of it at the time. Surely no one would be interested in what I had to say. I was no expert in anything! But within a few minutes, I got an email from Maxine (the organiser) asking if she could tempt me into doing a talk. I still clearly remember the moment I got the email: my heart was racing, my mouth was dry, my mind was running through all these thoughts: 
+
 - Why would anyone want to listen to me? 
 - Surely everyone knows what I know already?
 - I’m not a good presenter. I’ve never presented in front of people before!
