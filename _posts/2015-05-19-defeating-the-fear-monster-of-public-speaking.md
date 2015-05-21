@@ -1,14 +1,15 @@
 ---
-published: false
+published: true
 layout: post
 category: general
 ---
 
 
+
 About a few weeks ago, I did a talk at [Girl Geeks Sydney](http://www.eventbrite.com.au/e/girl-geek-sydney-meetup-april-2015-registration-16424320585) on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
 
 ## The fear of public speaking
-Most people I come across don’t enjoy public speaking. As Mark Twain once said, “There are only two types of speakers in the world: the nervous and liars”. If someone tells you they’re not nervous before giving a talk, most of the time they are lying. Glossohpbia - speech anxiety or a fear of public speaking - affects [75% of people](http://en.wikipedia.org/wiki/Glossophobia#cite_note-3 ). Some people fear it even more than death! That just goes to show how scary it can be.
+Most people I've come across don’t enjoy public speaking. As Mark Twain once said, “There are only two types of speakers in the world: the nervous and liars”. If someone tells you they’re not nervous before giving a talk, most of the time they are lying. Glossohpbia - speech anxiety or a fear of public speaking - affects [75% of people](http://en.wikipedia.org/wiki/Glossophobia#cite_note-3 ). Some people fear it even more than death! That just goes to show how scary it can be.
 
 ## How I got started
 I’ve definitely been one of those people who was terrified of public speaking. I still do, but just less these days. So how did I begin my public speaking journey? It all started when my friend Jared messaged me one day to say, “You’re going to hate me… I just dobbed you in to do a 5 minutes talk at [Web Directions](http://webdirections.org) What Do You Know”. I didn’t think much of it at the time. Surely no one would be interested in what I had to say. I was no expert in anything! But within a few minutes, I got an email from Maxine (the organiser) asking if she could tempt me into doing a talk. I still clearly remember the moment I got the email: my heart was racing, my mouth was dry, my mind was running through all these thoughts: 
@@ -25,10 +26,10 @@ We often think “The whole world knows what I know already. Everyone’s alread
 (thank you to [Nicole Sullivan](http://twitter.com/stubbornella) for sharing this tip with me) 
 
 ### No one started as a great public speaker
-Public speaking is damn hard, which is why no one ever started as an expert at it. You see all those amazing speakers on TED? I bet none of them started as an expert. I bet they all became amazing speakers through hours of practice and maybe even years of experience. In fact, Dr Jill Bolte-Tyalor sad she practiced her 18-minute TED talk 200 times! This just goes to show how much of a part practice plays in a great talk. We all need to start from somewhere. And like everything, with practice, we can all be better at public speaking. But first, we need to step outside of our comfort zone and give it a go.
+Public speaking is damn hard, which is why no one ever started as an expert at it. You see all those amazing speakers on TED? I bet none of them started as an expert. I bet they all became amazing speakers through hours of practice and maybe even years of experience. In fact, Dr Jill Bolte-Tyalor said she practiced her TED talk 200 times! This just goes to show how important practice is to doing a great talk. We all need to start from somewhere. And like everything, with practice, we can all be better at public speaking. But first, we need to step outside of our comfort zone and give it a go.
 
 ### The audience is generally supportive
-We all want to be liked, so it’s normal to worry about people not liking our presentation. But I doubt any audience goes to a talk and think, “Gees I really hope the speaker will do a terrible job”. People are generally supportive of the speakers. Yes, there will be an occasion when some people won’t like your talk and that’s just reality. Don’t let that deter you though! Try to focus on the positives, but at the same time, seek constructive feedback from people. Maybe even ask the event organisers for their thoughts on your talk before you give it, see if the content aligns to what they think the audience is expecting. I am sure they would be more than happy to help you as they’d want to have the best event possible.
+We all want to be liked, so it’s normal to worry about people not liking our presentations. But I doubt any audience goes to a talk and think, “Gees, I really hope the speaker will do a terrible job”. People are generally supportive of the speakers. Yes, there will be an occasion when some people won’t like your talk and that’s just reality. Don’t let that deter you though! Try to focus on the positives, but at the same time, seek constructive feedback from people. Maybe even ask the event organisers for their thoughts on your talk before you give it, see if the content aligns to what they think the audience is expecting. I am sure they would be more than happy to help you as they’d want to have the best event possible.
 
 ### There isn’t right or wrong sometimes
 Often we worry the information we give out is incorrect but a lot of the times, there isn’t really right or wrong. It might just be your approach to a problem is different, but it doesn’t make it wrong. For example, if I give a talk about CSS naming conventions, my approach might be different to other people’s, but it doesn’t necessarily mean it’s wrong. We all approach problems differently under different circumstances, and that’s what makes all our talks unique in their own ways.
@@ -59,26 +60,29 @@ Doing talks in front of your peers really increases your profile in the communit
 But most of all, public speaking is a truly rewarding experience. The audience is naturally drawn to talking with speakers. So at the end of your talk, you might have people come up to ask you questions about your talk, have further discussions with you and maybe even tell you how much they've emjoyed it! And for me, it's most rewarding when people say they've learnt something from you. Nothing beats knowing what you've shared with the audience has helped them gain something useful out of it.
 
 ## Ok I'm convinced! How should I actually start?
-Now that you've heard all these great things public speaking brings you, you are ready to get give it a go! So how do you go about getting started?
+Now that you've heard all these great things public speaking brings you, you are ready to give it a go! So how do you go about getting started?
 
 ### Pick a topic
-First, you need to pick a topic. Pick something you are passionate about and already know well. Like I've said earlier, it doesn't need to be anything ground breaking. Maybe it can be about one particular technology you've used in your recent project (people love case studies), or some research you've done and what you found out. It's best to pick a topic that is good for a 5-10 minutes talk. Planning a talk and preparing slides take a lot of time. Shorter talks mean you don't need to spend as much time preparing for it and more time for practicing.
+First, you need to pick a topic. Pick something you are passionate about and already know well. It doesn't have to be something that's ground breaking. Maybe it can be about one particular technology you've used in your recent project (people love case studies), or some research you've done and what you've learnt. It's best to pick a topic that is good for a 5-10 minutes talk. Planning a talk and preparing slides take a lot of time, so shorter talks mean you don't need to spend as much time preparing for it and can have more time for practicing.
 
 ### Present it
-When it's all ready to go, you'll need to decide where to present it. Work is often a great place to start because that's in front of people you know well and hopefully feel comfortable with. Local meetups are so a great place to start. With my meetup SydCSS, we do a first-time speaker night I June to get people who haven't presented before to do a 5 minutes talk each. Lots of other meetups do lightning talks as well so make sure you reach out to the organisers.
+After you've got a topic, you'll need to decide where to present it. Work is often a great place to start because that's in front of people you know well and hopefully feel comfortable with. Local meetups are also a great place to start. With my meetup [SydCSS](http://sydcss.com), we do a first-time speaker night in June to get people who haven't presented before to do a 5 minutes talk each. Lots of other meetups do lightning talks as well so make sure you reach out to the organisers.
 
 ### Practice, practice, practice
-No matter how much time you've spent perfecting your slides and researching into your topic, in the end it all comes down to how you deliver the presentation. Practice is the key to a good presentation, espeically for your first couple of talks. The earlier you do it the better, as you might find that you need to adjust your content or how you present because your timing or the flow isn't quite right. Another reason why short talks are good is because you can practice it many more times! A 5 minutes talk means you can practice it 5-6 times in an hour. But don't just practice in front of your mirror. Make sure you practice in front of an audience, or at least a couple of people who can give you some honest feedback. For all my talks, I always get super nervous a few days before. But once I've practiced it in front of some people and got through my slides, I feel a lot more confident about it.
+No matter how much time you've spent perfecting your slides and researching into your topic, in the end it all comes down to how you deliver the presentation. Practice is the key to a good presentation, espeically if you are new to it. The earlier you do it the better, as you might find that you need to adjust your content or how you present because your timing or the flow isn't quite right. Another reason why short talks are good is because you can practice it many more times! A 5-minute talk means you can practice it 7-8 times in an hour. And don't just practice in front of your mirror. Make sure you practice in front of an audience, or at least a couple of people who can give you some honest feedback. For all my talks, I always get super nervous a few days before. But once I've practiced in front of some people and gone through my slides, I would feel a lot more confident about it.
 
 ## How do I feel about public speaking now?
-Since my very first presentation, I've done 6-7 othe presentations. I definitely feel more confident about my ability now. I even feel confident enough to put my hand up at GirlGeeks to say I wanted to do this talk! Who would have thought! But do I still get scared before presenting? For sure I do! My fear monster is still lurking in the background but I'm able to control it much better and tell it to go away.
+Since my very first presentation, I've done about 6-7 more presentations. I definitely feel more confident about my ability now. I even feel confident enough to put my hand up at GirlGeeks to say I wanted to do this talk! Who would have thought! But do I still get scared before presenting? For sure I do! My fear monster is still lurking in the background but I'm able to control it much better and can tell it to go away.
 
-Public speaking has changed me. It's opened up so many opportunities for me, got to speak at conferences and met some awesome people along the way. But most of all, it's given me tonnes more confidence. Without it, I wouldn't have the courage to start my own meetup [SydCSS](http://sydcss.com) and even this blog.
+Public speaking has changed me. It has opened up so many opportunities for me such as getting to speak at conferences , meeting some great people along the way, expanded up my network which led to job opportunities. But most of all, it's given me tonnes more confidence. Without it, I wouldn't have had the courage to start my own meetup [SydCSS](http://sydcss.com) and even this blog.
 
-So, I hope this blog post has managed to encourage some of you to give public speaking a go. If it has, I'd love to hear about it :) Or if you feel like you want to do it but still have some doubts, let me know too and I'd love to help. 
+So, I hope this blog post has managed to encourage some of you to give public speaking a go. If it has, I'd love to hear about it :) Or if you feel like you want to do it but still have some doubts, let me know too and I'd love to help.
 
-There are lots of fantastic resources online about public speaking, and here are a few I've chosen:
+Give it a go. You won't regret it.
 
+**Some extra resources**
 - [https://tinyletter.com/techspeak](https://tinyletter.com/techspeak) - Newsletter with Calls for Proposals and information on public speaking, with a focus on technical topics
 - [http://speaking.io/](http://speaking.io/) - List of tips on public speaking
 - [http://ladiesintech.com/speaker-notes/](http://ladiesintech.com/speaker-notes/) - Handy speaking tips from Rebecca Murphey
+
+
