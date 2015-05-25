@@ -7,6 +7,7 @@ category: general
 
 
 
+
 About a few weeks ago, I did a talk at [Girl Geeks Sydney](http://www.eventbrite.com.au/e/girl-geek-sydney-meetup-april-2015-registration-16424320585) on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
 
 ## The fear of public speaking
@@ -81,6 +82,8 @@ Public speaking has changed me. It has opened up so many opportunities for me su
 So, I hope this blog post has managed to encourage some of you to give public speaking a go. If it has, I'd love to hear about it :) Or if you feel like you want to do it but still have some doubts, let me know too and I'd love to help.
 
 Give it a go. You won't regret it.
+
+EDIT: If you want to read a great story about how someone conquered his fear of public speaking, have a read of my friend [David Lewis](http://twitter.com/dp_lewis)'s post: [Calm above the water, and paddling like hell underneath](http://www.david-lewis.com/public-speaking/calm-above-the-water-and-paddling-like-hell-underneath/)
 
 #### Some extra resources
 
