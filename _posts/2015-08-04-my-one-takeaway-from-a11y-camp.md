@@ -1,6 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+category: general
 ---
+
 
 ## My one takeaway from a11y Camp
 
