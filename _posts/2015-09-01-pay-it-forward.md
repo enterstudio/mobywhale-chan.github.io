@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 I’m consider myself very lucky when it comes to meeting people I can seek advice from and people who encourage and believe in me. Giving talks is one of the things that I wouldn’t have been able to do if I didn’t have them around me. As I met more people in the community (thanks to SydCSS), I realised so many people (especially women) have the same fear as me, like “why would anyone want to listen to me”, “I don’t have anything worthwhile to talk about”. Having been in the same situation,  I know that those thoughts aren’t true and I want to change that! I want to help them, like how other people have helped me. I want to pay it forward. I especially want to see more women up there on the stage, sharing their ideas and knowledge. I want young women to have more role models to look up to. A lot of people already have great ideas for talks. They just need a little encouragement and someone to tell them, "You can do this!"
 
