@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+category: general
 ---
 
 
