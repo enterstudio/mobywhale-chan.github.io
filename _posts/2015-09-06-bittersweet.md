@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 category: general
 ---
+
 
 Last Friday I resigned from my role as a front-end developer at [Learnosity](http://learnosity.com). I’ve decided to take a leap of faith and try my hands in something new. I’ll be joining [Lookahead Search](http://lookaheadsearch.com.au) as a technical recruiter in November. 
 
@@ -10,8 +11,6 @@ Surprised? Yeah me too. It’s a big change from being a developer. I’ll be co
 
 Then came the time when I had to tell work about it. I first told my manager, my CTO then my scrum team. Each time I broke the news to people, I started welling up. I did not think I would be this emotional. In fact, I’ve never been this emotional about leaving somewhere. It was the most difficult “breakup” I’ve ever had. I really enjoy working with the teams, especially my scrum team. It makes me very sad that I'm leaving them. After I’ve told the team, I sent an email to the rest of the company about it. Then replies to my email started coming in. I was so touched reading every one of them. Everyone was saying how sorry they were to see me go, and how much they appreciated the contribution I’ve made to the product and to the team. I honestly didn’t realise I had that much of an impact on the company. I didn’t think people would care that much. I didn’t think I would leave much of a hole to fill. But the emails from everyone said the opposite. While they made me even more sad about leaving, I was really happy to know that I was able to make a difference to the front-end standards, the culture and diversity at work.
 
-
 That afternoon I decided to put a tweet out to tell my web friends about my new role. I was pretty nervous. What if people think I’m going to the “dark side” and start questioning me? What if people think differently of me? But the reactions were all super positive. Everyone congratulated me and were happy for me. I guess that’s thanks to Lookahead having a good reputation in the industry. My heart was soaring with happiness and pride. I feel proud to be joining a team that’s respected in the industry. I really cannot wait to contribute to this team.
-
 
 It has been a very emotional week: a combination of tears, excitement, heartbreak and hopefulness. Ver bittersweet.
