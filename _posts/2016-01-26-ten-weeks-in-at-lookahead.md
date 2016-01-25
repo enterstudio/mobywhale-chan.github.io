@@ -1,7 +1,8 @@
 ---
 published: false
+layout: post
+category: general
 ---
-
 
 10 weeks in at Lookahead and I've made my first placement! Super happy about it. I was kind of lucky that the timing worked perfectly: the right job came up for the right candidate. But that's not to say I didn't work hard in getting the candidate the offer.
 
