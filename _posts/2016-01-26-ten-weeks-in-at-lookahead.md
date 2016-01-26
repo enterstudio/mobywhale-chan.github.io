@@ -7,7 +7,7 @@ category: general
 10 weeks in at Lookahead and I've made my first placement! Super happy about it. I was kind of lucky that the timing worked perfectly: the right job came up for the right candidate. But that's not to say I didn't work hard in getting the candidate the offer.
 
 <figure class="txt-center">
-  <img src="https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xpt1/t51.2885-15/e35/12568951_854707281293608_1049900300_n.jpg" alt="Flowers from the candidate I placed">
+  <img src="https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xpt1/t51.2885-15/e35/12568951_854707281293608_1049900300_n.jpg" alt="Flowers from the candidate I placed" width="400">
   <figcaption class="type-muted type-s">Flowers from the candidate I placed</figcaption>
 </figure>
 
