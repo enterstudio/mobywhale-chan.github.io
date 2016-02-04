@@ -1,3 +1,9 @@
+---
+published: true
+layout: post
+category: general
+---
+
 As I'm writing this, I'm on my way home after a very long day. It started at about 11am when I got a call from my SydCSS co-organiser David to say that something came up and we had to change venue for our event. And that was happening in about 7 hours!
 
 I probably let out the loudest F bombs anyone has ever heard me yell. So much so that our friends next door asked me later, "Was that you swearing before, Fiona?" 
