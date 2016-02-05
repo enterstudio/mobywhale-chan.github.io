@@ -4,6 +4,7 @@ layout: post
 category: general
 ---
 
+
 As I'm writing this, I'm on my way home after a very long day. It started at about 11am when I got a call from my SydCSS co-organiser David to say that something came up and we had to change venue for our event. And that was happening in about 7 hours!
 
 I probably let out the loudest F bombs anyone has ever heard me yell. So much so that our friends next door asked me later, "Was that you swearing before, Fiona?" 
@@ -15,5 +16,8 @@ The night was a success. We had about 75 people turned up and I think everyone h
 I feel so lucky that I chose a career which let me be a part of such a caring and sharing community. I don't know what other industries/communities are like, but this web one is pretty f*cking amazing.
 
 Thank you everyone.
+
+![IMG_0276.JPG]({{site.baseurl}}/_posts/IMG_0276.JPG)
+
 
 (Ok I'm done with all my F bombs for the week)
