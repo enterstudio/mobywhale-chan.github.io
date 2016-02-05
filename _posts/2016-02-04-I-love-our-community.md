@@ -17,7 +17,7 @@ I feel so lucky that I chose a career which let me be a part of such a caring an
 
 Thank you everyone.
 
-![IMG_0276.JPG]({{site.baseurl}}/_posts/IMG_0276.JPG)
+![IMG_0276.JPG]({{site.baseurl}}/assets/img/photos/lookahead-sydcss.jpg)
 
 
 (Ok I'm done with all my F bombs for the week)
