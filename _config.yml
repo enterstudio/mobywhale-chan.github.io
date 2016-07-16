@@ -20,6 +20,8 @@ paginate_path: "page:num"
 
 #### Under the Hood Stuff #####
 
+markdown: kramdown
+
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 auto: true
 
