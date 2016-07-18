@@ -7,4 +7,4 @@ I've been at Lookahead for almost 9 months now, and have spoken with over a hund
 
 Through every conversation, I get to know them a little better. I feel very privileged that I get to do that and share some of their experiences: I feel their joy when they find their dream job, are able to hire someone they really want on their team or finally have their permanent residency. And I feel their disappointment and sadness when they don't get that job they want, someone turns down their offer, or something sad happens in their personal lives.
 
-I'm humbled that so many of them trust me enough to have me as their sounding board and someone they'd come to when they need advice. Some of them even became my friends. Thank you to all the people who've trusted me.
+I'm humbled that so many of them trust me enough to have me as their sounding board and someone they'd come to when they need advice. Some of them even become my friends. Thank you to all the people who've trusted me.
