@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+category: general
 ---
 Today marks one year since I've gone from a front end developer to be a technical recruiter at [Lookahead Search](lookahead.com.au). In my previous jobs, making it to one year just felt like another day. But this time it's different. It feels more significant because it was a career change.
 
@@ -18,8 +20,3 @@ As much as I enjoyed building software before, I didn't always get to practice w
 I certainly wouldn't be able to achieve all the things this year without my team. We all look after each other and I've had so much support from everyone. I feel completely comfortable being vulnerable amongst them and that requires a lot of trust. I know they have my back.
 
 When I started my career in tech, I certainly didn't think 10 years later I'd be working at Lookahead, but I'm so glad the journey and everything I've done have led me to this point. It's the best job I've ever had.
-
-
-
-
-
