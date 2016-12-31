@@ -1,32 +1,32 @@
-# Your name, as you want it to appear underneath each post and in the footer
+---
+title: Mobywhale Chan.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 author: Fiona Chan
-
-# The directory for category index pages. Change it to something else if
-# for example you want links like /categories/category1 instead of /category1
-# category_dir: /categories
-
-# Uncomment if you are planning to run the blog in a subdirectory
-# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
-# Example, you must use http://localhost:4000/path/to/blog
-baseurl:
-
-# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-# url:
-
+baseurl: 
 paginate: 5
-
-paginate_path: "page:num"
-
-
-#### Under the Hood Stuff #####
-
+paginate_path: page:num
 markdown: kramdown
-
-# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 auto: true
-
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: /:year/:month/:title.html
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: ["README.markdown", "package.json", "grunt.js", "Gruntfile.js", "node_modules", "sass", "lib", "config.rb", "config", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace"]
+permalink: "/:year/:month/:title.html"
+exclude:
+- README.markdown
+- package.json
+- grunt.js
+- Gruntfile.js
+- node_modules
+- sass
+- lib
+- config.rb
+- config
+- Rakefile
+- Rakefile.rb
+- tmp
+- "*.sublime-project"
+- "*.sublime-workspace"

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: CSS is easy...?
-category: CSS
+date: 2014-07-30 00:00:00 Z
+categories:
+- CSS
+layout: post
 ---
 
 Ok, let me just start by saying I don't think CSS is easy. But I feel like that's how a lot of people feel about it still. It's not hard to get styling to work. If some styling isn't applying, you can try adding !important to your rule, or increase the specificity by specifying more selectors. If all things fail, you can try all the CSS property and value pair, and one of them will probably make something work.

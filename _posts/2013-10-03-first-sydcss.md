@@ -1,7 +1,9 @@
 ---
-layout: post
 title: First SydCSS
-category: Web
+date: 2013-10-03 00:00:00 Z
+categories:
+- Web
+layout: post
 ---
 
 I'M ON SUCH A HIGH RIGHT NOW! Seriously, I'm buzzing. Not from an overdose of caffeine or sugar, but because THE FIRST NIGHT OF [SYDCSS](http://www.sydcss.com) WAS A FRIGGING SUCCESS! I am just soooooo happy with how well it went. It's almost 12:30am now but I just want to capture everything about the night while it's still fresh in my mind.

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Meet a Mentor
-category: general
+date: 2014-08-17 00:00:00 Z
+categories:
+- general
+layout: post
 ---
 
 Last Thursday night, I attended the first [Meet a Mentor](http://www.meetup.com/Meet-a-mentor-for-students-of-technology/) meetup in Sydney as a mentor, which was organised by my friend [Georgina](https://twitter.com/GRobilliard) from [Lookahead Search](http://www.lookahead.com.au/). The idea of the night was for anyone who was interested in the tech industry to meet people who work in the industry and ask them questions. Each table of students will have two mentors. Attendees will get 12 minutes to ask the mentors at the table any questions. When the time is up, the mentors will move onto a different table. Kind of like speed dating! I really liked the idea and was really excited when I was asked to be a part of it.

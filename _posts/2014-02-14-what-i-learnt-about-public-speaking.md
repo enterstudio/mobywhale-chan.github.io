@@ -1,7 +1,9 @@
 ---
-layout: post
 title: What I learnt about public speaking
-category: General
+date: 2014-02-14 00:00:00 Z
+categories:
+- General
+layout: post
 ---
 
 This blog post has been sitting in my draft for more than two months. But my friend David Lewis's recent post about his [public speaking experience](http://www.david-lewis.com/public-speaking/calm-above-the-water-and-paddling-like-hell-underneath/) (an excellent post by the way) gave me the little nudge to finish mine, so here it is.

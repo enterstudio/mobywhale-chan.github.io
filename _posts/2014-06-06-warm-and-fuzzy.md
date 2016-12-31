@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Warm and fuzzy
-category: General, SydCSS
+date: 2014-06-06 00:00:00 Z
+categories:
+- General, SydCSS
+layout: post
 ---
 
 I've been feeling all warm and fuzzy since our June SydCSS. It was one of our best ones I think. We had a particularly special night, where we got 6 people who haven't presented before to each give a 5 minutes talk. They were all a bit nervous before starting. Completely understandable. Who doesn't get nervous before they present? But everyone did so well and you wouldn't be able to tell they were nervous at all. Afterwards they all said they were glad to have done it and would want to do it again. That made me soooo happy. I really want to encourage more people to give public speaking a go because there is so much to gain from the experience. I'm really glad that people were able to do this through SydCSS.

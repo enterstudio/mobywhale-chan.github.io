@@ -1,7 +1,9 @@
 ---
-layout: post
 title: What a year
-category: General
+date: 2013-12-30 00:00:00 Z
+categories:
+- General
+layout: post
 ---
 
 Ah it's been more two months since I last blogged. Life's been very busy the past three months and when I'm busy, I kind of let the things I enjoy doing slip, so that's my excuse for not having blogged for a while.

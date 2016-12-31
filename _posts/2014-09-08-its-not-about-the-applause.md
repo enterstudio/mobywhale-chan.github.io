@@ -1,8 +1,9 @@
 ---
+title: It's not about the applause
+date: 2014-09-08 00:00:00 Z
+categories:
+- general
 layout: post
-title: "It's not about the applause"
-category: general
-published: true
 ---
 
 Recently at work, we started doing Show & Tell at Friday lunch every few weeks. The idea is to share knowledge within the team. My manager asked if I'd like to do one about accessibility and I did not hesitate in putting my name down for it. Why? It's not really because I _love_ presenting (at the same time I don't hate it anymore). It's an easier and better way of raising awareness and distributing knowledge about it. Easier than trying to catch every problem in code review.

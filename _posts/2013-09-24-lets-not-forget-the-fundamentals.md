@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Let's not forget the fundamentals
-category: Web
+date: 2013-09-24 00:00:00 Z
+categories:
+- Web
+layout: post
 ---
 
 Everyday on Twitter, I get swamped with tweets about new web technology, new techniques, how to build flashy layouts etc. While it's great that there are so many exciting things happening, I find that fundamentals like accessibility, performance and progressive enhancements often get forgotten and lost. In fact, they are things we should always be considering. Yes, to do a superb job in these areas can require a bit of work, but there are definitely a lot of simple things we can do to make a difference:

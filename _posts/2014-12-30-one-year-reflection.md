@@ -1,8 +1,9 @@
 ---
-published: true
 title: One Year Reflection
+date: 2014-12-30 00:00:00 Z
+categories:
+- general
 layout: post
-category: general
 ---
 
 It's been a bit more than 1 year since [David](http://twitter.com/dp_lewis) and I started [SydCSS](http://sydcss.com) and what a fun year it's been! We started with not really knowing what we were doing, but after a bit of trial and error, I think we now have a pretty good idea of what works well and what doesn't. Every meetup is different, but these are the things that have worked out well for us:

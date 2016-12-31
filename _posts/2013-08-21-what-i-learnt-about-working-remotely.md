@@ -1,7 +1,9 @@
 ---
-layout: post
 title: What I learnt about working remotely
-category: General, Work
+date: 2013-08-21 00:00:00 Z
+categories:
+- General, Work
+layout: post
 ---
 
 Last year I left my full time job to take up an opportunity to work with [Nicole Sullivan](http://stubbornella.org). She was based in San Francisco, I was in Sydney and the other developer on the team was in Paris. Yup, it was an international team!

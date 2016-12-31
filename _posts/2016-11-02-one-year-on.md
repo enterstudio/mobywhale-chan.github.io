@@ -1,8 +1,11 @@
 ---
-published: true
+title: One Year On
+date: 2016-11-02 00:00:00 Z
+categories:
+- general
 layout: post
-category: general
 ---
+
 Today marks one year since I've gone from a front end developer to be a technical recruiter at [Lookahead Search](lookahead.com.au). In my previous jobs, making it to one year just felt like another day. But this time it's different. It feels more significant because it was a career change.
 
 When I was a developer, I would feel quite settled into my role after a year of being at a company. I'd have a good understanding of the code base, the processes and the people. But one year on at Lookahead, I still feel new to the job. 

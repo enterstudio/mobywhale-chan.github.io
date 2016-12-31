@@ -1,10 +1,10 @@
 ---
-published: true
+title: I Love Our Community
+date: 2016-02-04 00:00:00 Z
+categories:
+- general
 layout: post
-category: general
 ---
-
-
 
 As I'm writing this, I'm on my way home after a very long day. It started at about 11am when I got a call from my SydCSS co-organiser David to say that something came up and we had to change venue for our event. And that was happening in about 7 hours!
 

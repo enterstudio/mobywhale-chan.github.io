@@ -1,12 +1,10 @@
 ---
-published: true
+title: Defeating The Fear Monster Of Public Speaking
+date: 2015-05-19 00:00:00 Z
+categories:
+- general
 layout: post
-category: general
 ---
-
-
-
-
 
 About a few weeks ago, I did a talk at [Girl Geeks Sydney](http://www.eventbrite.com.au/e/girl-geek-sydney-meetup-april-2015-registration-16424320585) on how people can defeat the fear monster of public speaking. In a way it was kind of ironic, because even though I put my hand up to do this talk, I was still terrified about it! So why did I put myself through that stress? Well, I want to encourage others to really give public speaking a go because I truly believe it changed me and I wouldn't be where I am if I didn't do it.
 

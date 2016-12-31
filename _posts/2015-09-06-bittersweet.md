@@ -1,11 +1,10 @@
 ---
-published: true
+title: Bittersweet
+date: 2015-09-06 00:00:00 Z
+categories:
+- general
 layout: post
-category: general
 ---
-
-
-
 
 Last Friday I resigned from my role as a front-end developer at [Learnosity](http://learnosity.com). I’ve decided to take a leap of faith and try my hands in something new. I’ll be joining [Lookahead Search](http://lookaheadsearch.com.au) as a technical recruiter in November. 
 
